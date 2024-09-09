@@ -1,1 +1,2 @@
-print("Hello Word")
+print("Xiao ming")
+print("11234")
